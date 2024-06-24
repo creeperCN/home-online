@@ -1,23 +1,23 @@
 [
   {
-    "icon": "Blog",
-    "name": "表白墙",
-    "link": "https://beta-lovecards.lost-sky.gay/"
+    "icon": "Cloud",
+    "name": "ChatGPT-4",
+    "link": "https://gpt4.lost-sky.gay/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "copilot-cf",
+    "link": "https://bing-ai.lost-sky.gay/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "copilot-vercel",
+    "link": "https://vercel-bing-ai.lost-sky.gay/"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
     "link": "https://pan.lost-sky.gay/"
-  },
-  {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.lost-sky.gay/"
-  },
-  {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
   },
   {
     "icon": "Book",
